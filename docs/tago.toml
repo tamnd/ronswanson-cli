@@ -1,0 +1,10 @@
+title       = "ronswanson"
+baseURL     = "https://ronswanson-cli.tamnd.com/"
+description = "A command line for ronswanson."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/ronswanson-cli"
